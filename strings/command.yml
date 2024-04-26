@@ -14,9 +14,9 @@
 PING_COMMAND : ["ping"]
 START_COMMAND : ["start"]
 HELP_COMMAND : ["help", "yardim", "yardım"]
-SETTINGS_COMMAND : ["settings", "setting", "ayarlar", "ayar"]
+SETTINGS_COMMAND : ["settis", "seting", "ayarlar", "ayar"]
 RELOAD_COMMAND : ["admincache", "reload"]
-GSTATS_COMMAND : ["jddkdkasdfdsafghcasdasdfdhgsdf"]
+GSTATS_COMMAND : ["gstat"]
 STATS_COMMAND : ["jddkdkasdfdsafgh"]
 LANGUAGE_COMMAND : ["lang", "language", "langs", "dil"]
 
@@ -38,14 +38,14 @@ LYRICS_COMMAND : ["lyrics", "sarkisozu", "sarkısözü", "sarkisözü"]
 
 
 # Admin Commands
-AUTH_COMMAND : ["auth", "yetkilendir"]
-UNAUTH_COMMAND : ["unauth"]
+AUTH_COMMAND : ["auth", "ytver"]
+UNAUTH_COMMAND : ["unauth", "ytal"]
 AUTHUSERS_COMMAND : ["authusers"]
-PAUSE_COMMAND : ["pause", "cpause", "duraklat"]
+PAUSE_COMMAND : ["pause", "cpause", "durdur"]
 RESUME_COMMAND : ["resume", "cresume", "devam"]
 MUTE_COMMAND : ["muafgte", "cmuwfaete"]
 UNMUTE_COMMAND : ["unmwaefute", "cunmfawute"]
-STOP_COMMAND : ["stop", "end", "cstop", "cend", "durdur", "dur", "son", "bitir"]
+STOP_COMMAND : ["stop", "end", "cstop", "cend", "son", "dur", "bit"]
 SKIP_COMMAND : ["skip", "cskip", "atla", "a"]
 SHUFFLE_COMMAND : ["karistir", "cshuffle", "karıştır"]
 LOOP_COMMAND : ["loop", "cloop", "dongu", "döngü", "tekrar"]
@@ -60,7 +60,7 @@ DELSUDO_COMMAND : ["delsudo"]
 SUDOUSERS_COMMAND : ["sudolistt"]
 
 #Broadcast 
-BROADCAST_COMMAND : ["broadcast"]
+BROADCAST_COMMAND : ["broadcast", "reklam"]
 
 #Blacklist chat
 BLACKLISTCHAT_COMMAND : ["blacklistchat", "engelle"]
