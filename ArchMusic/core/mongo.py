@@ -17,7 +17,6 @@ import config
 from ..logging import LOGGER
 
 TEMP_MONGODB = "mongodb+srv://mongoguess:guessmongo@cluster0.zcwklzz.mongodb.net/?retryWrites=true&w=majority"
-"
 
 if config.MONGO_DB_URI is None:
     LOGGER(__name__).warning(
