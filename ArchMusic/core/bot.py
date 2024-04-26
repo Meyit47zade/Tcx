@@ -25,7 +25,7 @@ class ArchMusic(Client):
             self.username = get_me.username
             self.id = get_me.id
 
-            video_url = "https://telegra.ph/file/36221d40afde82941ffff.mp4"
+            video_url = "https://telegra.ph/file/622ca19c932af54a530a1.mp4"
             caption = "Bot Başladı"
             
             try:
@@ -36,7 +36,7 @@ class ArchMusic(Client):
                 )
             except:
                 LOGGER(__name__).error(
-                    "Bot has failed to access the log Group. Make sure that you have added your bot to your log channel and promoted as admin!"
+                    "Bot günlük kanalına erişemedi. Botu günlük kanalınıza eklediğinizfen ve admin olarak yetkilendirdiğinizden emin olun.!"
                 )
                 sys.exit()
 
