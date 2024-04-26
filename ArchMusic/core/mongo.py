@@ -28,7 +28,7 @@ if config.MONGO_DB_URI is None:
         api_id=config.API_ID,
         api_hash=config.API_HASH,
     )
-    temp_client.start()")
+    temp_client.start()
    
     info = temp_client.get_me()
     username = info.username
