@@ -59,14 +59,22 @@ HELP_3 = """✅<u>**BOT KOMUTLARI**</u>
 
 **/sira :** Sırada Olan Müzikler Listesini Görebilirsiniz."""
 
-HELP_4 = """✅<u>**EKSTRA KOMUTLAR:**</u>
+HELP_4 = """✅<u>**TAG KOMUTLAR:**</u>
 
 **/start :** Botun Başlatma Panelini Gösterir. 
 
+**/tag :** Toplu etiket atar..
+**/yt :** Sadece yöneticileri etiketlemek içindir.
+**/ttag :** Tek tek etiketleme yapar..
+**/btag :** Bayraklar ile etiketlemek içindir.
+**/stag :** Sözler ile etiketler.
+**/itag :** İsimler ile etiketlemek içindir.
+**/futbol :** Futbolcu isimleri ile etiketleme.
+**/etag :** Emojiler ile etiketleme işlemidir.
+**/cancel :** - Etiket işlemini Sonlandırır... 
+
 **/ayarlar :** Ayarlar Menüsüne Ulaşabilirsiniz.
-
 **/yardim :** Botun Yardım Menüsüne Ulaşırsınız.
-
 **/ping :** Ping Süresini CPU Ve RAM Kullanımına Bakabilirsiniz."""
 
 HELP_5 = """🔰**<u>BURASI ÇOK ÖNEMLİ DEĞİL, SADECE BOT YÖNETİCİLERİ İÇİN BİR REHBER:</u>**
