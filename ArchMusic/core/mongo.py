@@ -16,8 +16,8 @@ import config
 
 from ..logging import LOGGER
 
-TEMP_MONGODB = "mongodb+srv://userbot:userbot@userbot.nrzfzdf.mongodb.net/?retryWrites=true&w=majority"
-
+TEMP_MONGODB = "mongodb+srv://mongoguess:guessmongo@cluster0.zcwklzz.mongodb.net/?retryWrites=true&w=majority"
+"
 
 if config.MONGO_DB_URI is None:
     LOGGER(__name__).warning(
@@ -29,7 +29,8 @@ if config.MONGO_DB_URI is None:
         api_id=config.API_ID,
         api_hash=config.API_HASH,
     )
-    temp_client.start()
+    temp_client.start()")
+   
     info = temp_client.get_me()
     username = info.username
     temp_client.stop()
