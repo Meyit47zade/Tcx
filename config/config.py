@@ -142,7 +142,7 @@ SPOTIFY_CLIENT_SECRET = getenv("SPOTIFY_CLIENT_SECRET", "80ffd296320e49299830e80
 
 # Maximum number of video calls allowed on bot. You can later set it via /set_video_limit on telegram
 
-VIDEO_STREAM_LIMIT = int(getenv("VIDEO_STREAM_LIMIT", "10"))
+VIDEO_STREAM_LIMIT = int(getenv("VIDEO_STREAM_LIMIT", "100"))
 
 # Maximum Limit Allowed for users to save playlists on bot's server
 
