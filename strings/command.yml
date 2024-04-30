@@ -21,20 +21,20 @@ STATS_COMMAND : ["jddkdkasdfdsafgh"]
 LANGUAGE_COMMAND : ["lang", "language", "langs", "dil"]
 
 # Play Commands
-PLAY_COMMAND : ["play", "vplay", "cplay", "cvplay", "playforce", "vplayforce", "cplayforce", "cvplayforce", "oynat", "o", "pl"]
+PLAY_COMMAND : ["play", "vplay", "voynat", "cplay", "cvplay", "playforce", "vplayforce", "cplayforce", "cvplayforce", "oynat", "o", "pl"]
 PLAYMODE_COMMAND : ["playmode"]
-CHANNELPLAY_COMMAND : ["channelplay"]
+CHANNELPLAY_COMMAND : ["channelplay", "cplay"]
 STREAM_COMMAND : ["stadsfream", "cstfewream", "strfewaeamforce"]
 
 #Playlists Command
-PLAYLIST_COMMAND : ["playlist"]
+PLAYLIST_COMMAND : ["playlist", "listem"]
 DELETEPLAYLIST_COMMAND : ["deleteplaylist", "listemisil"]
 
 
 # Tools
 QUEUE_COMMAND : ["queue","cqueue", "player", "cplayer", "playing", "cplaying", "sira"]
 SONG_COMMAND : ["song", "video", "bul", "indir", "vbul"]
-LYRICS_COMMAND : ["lyrics", "sarkisozu", "sarkısözü", "sarkisözü"]
+LYRICS_COMMAND : ["lyrics", "sarkisozu", "sarkı", "tsozu"]
 
 
 # Admin Commands
