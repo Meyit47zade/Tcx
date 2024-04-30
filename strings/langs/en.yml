@@ -24,8 +24,8 @@ tg_2 : "Telegram'dan Medya İndirilirken Hata Oluştu."
 
 # Core - Call.py
 call_1 : "Bot, asistan hesabını grububunuza davet etmek için **Yönetici** İzni gerektirir.\n\Lütfen bota davet yetkisi verin."
-call_2 : "**Asistanı Grubunuzda yasaklamışsınız**, lütfen yasağı kaldırın! \nAsistanın bilgileri aşağıda unban yaparsanız tekrar katılabilir. Veya grup ayarlarında çıkarılan kullanıcılar listesinde asistanı bulup engeli kaldırın. Yapamazsanız @OctopusGameSahip hesabına ulaşın.\n\n**Asistan Kullanıcı Adı:** @{0}\n**Asistan ID:** {1}"
-call_3 : "Asistan Hesabı sohbetinize katılırken sorun oluştu.\nLütfen @{0} hesabını gruba kendiniz ekleyin veya @SigmaMan3169 hesabına yazın.\n\n**Sistem Notu**: {1}"
+call_2 : "**Asistanı Grubunuzda yasaklamışsınız**, lütfen yasağı kaldırın! \nAsistanın bilgileri aşağıda unban yaparsanız tekrar katılabilir. Veya grup ayarlarında çıkarılan kullanıcılar listesinde asistanı bulup engeli kaldırın. Yapamazsanız @Meyit47 hesabına ulaşın.\n\n**Asistan Kullanıcı Adı:** @{0}\n**Asistan ID:** {1}"
+call_3 : "Asistan Hesabı sohbetinize katılırken sorun oluştu.\nLütfen @{0} hesabını gruba kendiniz ekleyin veya @Mytasistan hesabına yazın.\n\n**Sistem Notu**: {1}"
 call_4 : "Bot, asistan hesabını sohbet grubunuza davet etmek için **Kullanıcıları Bağlantı Yoluyla Davet Et** Yetkisi gerektirir.\nLütfen bota davet yetkisi verin."
 call_5 : "Asistan Hesabı 5 Saniye içinde katılacak.. Lütfen Bekleyin."
 call_6 : "**Asistan Hesabı [{0}] Başarıyla Katıldı.\n\nMüzik Şimdi Başlatılıyor**"
@@ -84,23 +84,23 @@ admin_34 : "İleri Sarılırken Hata Oluştu."
 # Bot 
 
 # Start
-start_1 : "**Beni {0} Grubunuza Davet Ettiğiniz İçin Teşekkürler.\n{1} Çalışıyor.  \n\nHerhangi Bir Yardım Almak İçin Destek Grubumuza Veya Kanalımıza Göz Atın.**"
-start_2 : "**{0}'una Hoş Geldiniz  \n\nGrubunuza Ekleyerek Sesli Sohbetlerinizde\n Müzik & Film izleyebilir/Dinleyebilirsiniz.\n\n Ayrıca referans sistemini kullanarak fake no, takipçi vs.\n bir çok özelliği sadece referans sistemi ile kazanabilirsiniz.**"
+start_1 : "**Beni {0} Grubunuza Davet Ettiğiniz İçin Teşekkürler.\n{1} Çalışıyor.  \n\nHerhangi Bir Yardım Almak İçin Destek Grubumuza Göz Atın.\n\nReferans sistemine bakmayı unutmayın.**"
+start_2 : "**{0}'una Hoş Geldiniz  \n\nGrubunuza Ekleyerek Sesli Sohbetlerinizde\nMüzik & Film izleyebilir/Dinleyebilirsiniz.\n\nAyrıca referans sistemini kullanarak fake no, Takipçi, Eğitim seti gibi bir çok özelliği sadece referans kasarak kazanabilirsiniz.**"
 start_3 : "Beni Grubunuza Davet Ettiğiniz İçin Teşekkürler.\n\n**Çalışmak için Sadece Sesli sohbetleri Yönetme ve Gruba Davet Etme Yetkisi Vermeniz Yeterlidir.**  \n\nAsistan Kullanıcı Adı: @{1}"
 start_4 : "**{0}'unun Sahibi {1} Sohbetinize Katıldı.**"
-start_5 : "**{0}'u Çok Kıymetli {1} Beyefendinin Grubunuza Katıldığını Fark Etti. Kendisine Saygılarımı Sunarım.** 🙏"
+start_5 : "**{0}'u \nÇok Kıymetli {1} Beyefendinin Grubunuza Katıldığını Fark Etti. Kendisine Saygılarımı Sunarım.** 🙏"
 start_6 : "❗️ **Süper Grup Gerekli** ❗️ Lütfen Grubunuzu **Süper Gruba** dönüştürün ve sonra beni tekrar ekleyin. \n\n**Süper grup nasıl yapılır? 1-** Üyeler listesine gelin ve sağ üstteki kalem işaretine basın.\n**2-** Yeni üyeler için sohbet geçmişi ayarını Görünür olarak düzenleyin. Şimdi botu tekrar ekleyebilirsiniz"
-start_7 : "**Octopus Müzik Botun Grup Kapasitesi Dolduğu İçin Yeni Bot olarak Kraken Müzik Botunu Oluşturduk** \n [Buraya Tıklayarak Yeni Botu Görebilirsiniz]({0})"
+start_7 : "**{0}'un Grup Kapasitesi Dolduğu İçin Yeni Bot oluştıracağız.** \n [Buraya Tıklayarak Yeni Botu Görebilirsiniz]({0})"
 
 # Help
-help_1 : "**Komutlar ve Öğreticileri Görmek İçin Aşağadaki Butonları Kullanınız  **\n\nGrup Üyelerinin Sadece Oynatma Komutlarını, Grup Adminlerininse Ayrıca Admin Komutlarını İncelemeleri Yeterli Olacaktır. "
+help_1 : "**Komutlar ve Öğreticileri Görmek İçin Aşağadaki Butonları Kullanınız.**\n\nGrup Üyelerinin Oynatma Komutlarını, Grup Adminlerininse Admin Komutlarını İncelemeleri Yeterli Olacaktır. "
 help_2 : "**Yardım İçin Butona Tıklayın**  "
 
 # Settings
 setting_1 : "⚙️ **Müzik Botu Ayarları**\n\n **Düzenlemek Veya Değiştirmek İstediğiniz Ayarları Aşağıdan Butonları Kullanarak Ayarlayabilirsiniz.**"
 setting_3 : "⁉️ Bu Nedir?\n\n1) Doğrudan: Arama sorgularını doğrudan oynatır. Videoları doğrudan modda oynatmak için -v kullanın.\n\n2) Satır İçi: Video ve ses arasında seçim yapmak için Satır İçi İşaretleme Düğmelerini Döndürür.  "
-setting_4 : "⁉️ Bu Nedir?\n\n👥 Herkes: Bu grupta bulunan yönetici komutlarını (skip, pause, resume vb.) herkes kullanabilir.\n\n🙍 Yalnızca Yönetici: Yalnızca yöneticiler ve yetkili kullanıcılar yönetici komutlarını kullanabilir."
-setting_5 : "Yetkili Kullanıcı Bulunamadı\n\nYönetici olmayan herhangi bir kişinin /auth ile yönetici komutlarımı kullanmasına ve /unauth kullanarak kullanmamasına izin verebilirsiniz"
+setting_4 : "⁉️ Bu Nedir?\n\n👥 Herkes: Bu grupta bulunan yönetici komutlarını (atla, durdur, devam vb.) herkes kullanabilir.\n\n🙍 Yalnızca Yönetici: Yalnızca yöneticiler ve yetkili kullanıcılar yönetici komutlarını kullanabilir."
+setting_5 : "Yetkili Kullanıcı Bulunamadı\n\nYönetici olmayan herhangi bir kişinin /ytver ile yönetici komutlarımı kullanmasına ve /ytal kullanarak kullanmamasına izin verebilirsiniz"
 setting_9 : "⁉️ Bu Nedir?\n\nEtkinleştirildiğinde Bot, sohbetinizi temiz ve anlaşılır kılmak için {0} tarihinden sonra mesajını siler.."
 setting_10 : "⁉️ Bu Nedir?\n\n1) Grup: Komutun verildiği gruptaki müziği çalar.\n\n2) Kanal: İstediğiniz kanaldaki müziği çalar. /channelplay ile kanal kimliğini ayarla"
 setting_11 : "⁉️ Bu Nedir?\n\n1) Herkes: Bu grupta bulunan herkes burada müzik çalabilir.\n\n2) Yalnızca Yönetici: Bu gruptaki müziği yalnızca yöneticiler çalabilir."
