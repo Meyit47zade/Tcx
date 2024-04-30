@@ -85,11 +85,11 @@ admin_34 : "İleri Sarılırken Hata Oluştu."
 
 # Start
 start_1 : "**Beni {0} Grubunuza Davet Ettiğiniz İçin Teşekkürler.\n{1} Çalışıyor.  \n\nHerhangi Bir Yardım Almak İçin Destek Grubumuza Veya Kanalımıza Göz Atın.**"
-start_2 : "**{0}'una Hoş Geldiniz  \n\nGrubunuza Ekleyerek Sesli Sohbetlerinizde Müzik Dinleyebilirsiniz.**"
+start_2 : "**{0}'una Hoş Geldiniz  \n\nGrubunuza Ekleyerek Sesli Sohbetlerinizde\n Müzik & Film izleyebilir/Dinleyebilirsiniz.\n\n Ayrıca referans sistemini kullanarak fake no, takipçi vs.\n bir çok özelliği sadece referans sistemi ile kazanabilirsiniz.**"
 start_3 : "Beni Grubunuza Davet Ettiğiniz İçin Teşekkürler.\n\n**Çalışmak için Sadece Sesli sohbetleri Yönetme ve Gruba Davet Etme Yetkisi Vermeniz Yeterlidir.**  \n\nAsistan Kullanıcı Adı: @{1}"
 start_4 : "**{0}'unun Sahibi {1} Sohbetinize Katıldı.**"
 start_5 : "**{0}'u Çok Kıymetli {1} Beyefendinin Grubunuza Katıldığını Fark Etti. Kendisine Saygılarımı Sunarım.** 🙏"
-start_6 : ❗️ **Süper Grup Gerekli** ❗️ Lütfen Grubunuzu **Süper Gruba** dönüştürün ve sonra beni tekrar ekleyin. \n\n**Süper grup nasıl yapılır? 1-** Üyeler listesine gelin ve sağ üstteki kalem işaretine basın.\n**2-** Yeni üyeler için sohbet geçmişi ayarını Görünür olarak düzenleyin. Şimdi botu tekrar ekleyebilirsiniz"
+start_6 : "❗️ **Süper Grup Gerekli** ❗️ Lütfen Grubunuzu **Süper Gruba** dönüştürün ve sonra beni tekrar ekleyin. \n\n**Süper grup nasıl yapılır? 1-** Üyeler listesine gelin ve sağ üstteki kalem işaretine basın.\n**2-** Yeni üyeler için sohbet geçmişi ayarını Görünür olarak düzenleyin. Şimdi botu tekrar ekleyebilirsiniz"
 start_7 : "**Octopus Müzik Botun Grup Kapasitesi Dolduğu İçin Yeni Bot olarak Kraken Müzik Botunu Oluşturduk** \n [Buraya Tıklayarak Yeni Botu Görebilirsiniz]({0})"
 
 # Help
@@ -151,7 +151,7 @@ cplay_5 : "Yalnızca Kanallar Desteklenir."
 cplay_6 : "Kanalı bu gruba bağlamak için[{0}] kanalın **Sahibi** olmanız gerekir.\n**Kanal Sahibi:** @{1}\n\nAlternatif olarak grubunuzu o kanala bağlayabilirsiniz. ve ardından `/channelplay bağlantılı ile bağlanmayı deneyin`"
 
 #Play
-play_1 : "🔄 **Müzik İndiriliyor... Lütfen Bekleyin...**  "
+play_1 : "♻️ **Müzik İndiriliyor... Lütfen Bekleyin...**  "
 play_2 : "**🏷Kanal Oynatma Modu**\n🔄 Sorgu İşleniyor... Lütfen Bekleyin!\n\n**Bağlı Kanal:** {0}"
 play_3 : "Sorgu İşlenemedi! Başka Bir Parça Oynatmayı Deneyiniz.  "
 play_4 : "🖇 **Yalnızca Yöneticiler Oynatır**\nYalnızca Yöneticiler ve Yetkilendirilmiş Kullanıcılar bu grupta müzik çalabilir.\n\nModu /playmode aracılığıyla değiştirin ve zaten yöneticiyseniz, /admincache aracılığıyla admincache'i yeniden yükleyin"
@@ -255,26 +255,26 @@ BACK_BUTTON : "⬅ Geri"
 UNBAN_BUTTON : "🗑 Asistanın yasağını kaldır"
 
 #Lyrics
-L_B_1 : "  Şarkı Sözlerini Şimdi Kontrol Et"
+L_B_1 : "Şarkı Sözlerini Şimdi Kontrol Et"
 
 # Start
 S_B_1 : "🗒 Komutlar"
 S_B_2 : "🔧 Ayarlar"
 S_B_3 : "📨 Destek Grubu"
-S_B_4 : "   Duyuru"
+S_B_4 : "🎁 REFERANS"
 S_B_5 : "✚ Beni Grubuna Ekle"
 S_B_6 : "💡 Git Repo"
-S_B_7 : "👨‍💻 Sahip"
-S_B_8 : "🔮 Komutlar, Nasıl kullanılır?"
+S_B_7 : "🧬 Sahip"
+S_B_8 : "🌐 Komutlar, Nasıl kullanılır?"
 S_B_9 : "🤍 Sahip"
 
 #Help 
 H_B_1 : "💎 Admin Komutları"
-H_B_2 : "🎧 Oynatma Komutları"
+H_B_2 : "🎧 Müzik Komutları"
 H_B_3 : "🤖 Bot Komutları"
-H_B_4 : "✨ Tag Komutlar"
+H_B_4 : "🌀 Tag Komutları"
 H_B_5 : "Menüyü Kapat"
-H_B_6 : "🚀 Sudo Komutları"
+H_B_6 : "🚀 Sudo Komutlar"
 
 #PlayMode
 PM_B_1 : "ᴅɪʀᴇᴄᴛ ᴘʟᴀʏ"
@@ -289,8 +289,8 @@ P_B_4 : "🎵 Oynatma Listelerimi Oynat"
 
 #Playlist
 PL_B_1 : "🎵 Oynatma listelerimi oynat"
-PL_B_2 : "✅ Playlist Ekle"
-PL_B_3 : "⚙️ Kontrol Paneli"
+PL_B_2 : "✅ Listeme Ekle"
+PL_B_3 : "⚙️ Kontrol"
 PL_B_4 : "📡 Oynatma Modu"
 PL_B_5 : "🔄 Tüm Listeyi Sil"
 PL_B_6 : "↗️ Oynatma Listesini Sil"
@@ -322,7 +322,7 @@ ST_B_18 : "📋 Yetkili kişiler"
 ST_B_19 : "🔎 Oynatma Tipi"
 ST_B_20 : "✅ Direkt Oynat"
 ST_B_21 : "😴 Uğraştırıcı"
-ST_B_22 : "⏯Şarkı Atlama İzni"
+ST_B_22 : "⏯ Şarkı Atlama İzni"
 ST_B_23 : "🏘 Grup"
 ST_B_24 : "🏷 Kanal"
 ST_B_25 : "🫂 Oynatma İzni"
@@ -336,7 +336,7 @@ SG_B_3 : "🎥 Video"
 
 #Stats
 SA_B_1 : "📢 Top 10 Grup"
-SA_B_2 : "🔢 Top 10 Parça Global"
+SA_B_2 : "🔢 Top 10 parça Global"
 SA_B_3 : "🧛 Top 10 Kullanıcı"
 SA_B_4 : "🏷 Gruptaki Top 10"
 SA_B_5 : "  Genel istatistikler"
@@ -345,7 +345,7 @@ SA_B_7 : "🔢 Global Top 10 İstatistikleri"
 SA_B_8 : "🤖 Bot İstatistikleri"
 
 #Queue
-QU_B_1 : "📑 Sıra Listesi"
+QU_B_1 : "📑 Sıradaki Şarkılar"
 QU_B_2 : "🎧 {1}den {0} Dakikası Oynatıldı"
 
 #Sudo
