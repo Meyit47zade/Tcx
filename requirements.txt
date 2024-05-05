@@ -10,8 +10,8 @@ heroku3
 motor
 numpy
 pillow
-psutil
-git+https://github.com/Meyit47zade/py-tgcalls
+psutill
+py-tgcalls
 pykeyboard
 pyrogram==2.0.106
 python-dotenv
