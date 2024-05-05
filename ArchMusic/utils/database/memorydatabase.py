@@ -465,8 +465,7 @@ from pytgcalls.types.input_stream.quality import (HighQualityAudio,
                                                   LowQualityAudio,
                                                   LowQualityVideo,
                                                   MediumQualityAudio,
-                                                  MediumQualityVideo)
-
+                                                  MediumQualityVideo),
 
 async def save_audio_bitrate(chat_id: int, bitrate: str):
     audio[chat_id] = bitrate
