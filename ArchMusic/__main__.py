@@ -13,7 +13,7 @@ import importlib
 import sys
 
 from pyrogram import idle
-from ntgcalls.exceptions import NoActiveGroupCall
+from pytgcalls.exceptions import NoActiveGroupCall
 
 import config
 from config import BANNED_USERS
