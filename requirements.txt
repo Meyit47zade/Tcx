@@ -11,7 +11,7 @@ motor
 numpy
 pillow
 psutil
-https://github.com/pytgcalls/pytgcalls.git
+git+https://github.com/pytgcalls/pytgcalls.git
 pykeyboard
 pyrogram==2.0.106
 python-dotenv
