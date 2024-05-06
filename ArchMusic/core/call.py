@@ -18,14 +18,14 @@ from pyrogram.errors import (ChatAdminRequired,
                              UserAlreadyParticipant,
                              UserNotParticipant)
 from pyrogram.types import InlineKeyboardMarkup
-from pytgcalls import StreamType
+from pytgcalls import PyTgCalls
 from pytgcalls.exceptions import (AlreadyJoinedError,
                                   NoActiveGroupCall,
                                   TelegramServerError)
 from pytgcalls.types import (JoinedGroupCallParticipant,
                              LeftGroupCallParticipant, Update)
 from pytgcalls.types.input_stream import AudioPiped, AudioVideoPiped
-from pytgcalls.types.stream import StreamAudioEnded
+from pytgcalls.types.stream import StreamAudioEnded, StreamType
 
 import config
 from strings import get_string
